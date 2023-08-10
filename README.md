@@ -10,7 +10,7 @@ Please visit my homepage for details.
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lukjunhui@gmail.com)
 
 
-![Luk's github stats](https://github-readme-stats.vercel.app/api?username=LuJH12)
+![Luk's github stats](https://github-readme-stats.vercel.app/api?username=LuJH12&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=LuJH12&theme=dark)](https://git.io/streak-stats)
 
 
