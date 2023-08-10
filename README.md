@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Junhui Lu, and I come from Guangdong, China. At present, I am a 2023 undergraduate graduate of Guangzhou Southern College. My major is Intelligent Science and Technology. I was advised by Prof. Choujun Zhan in the Research Institute of Big Data and Artificial Intelligence (RIBDAI)💻. My current research focuses on time series analysis, I work on applying artificial intelligence to industry and public health. I am currently working at Haoyun Technology Co., Ltd. Please visit my homepage for details.
+
+
 <!--
 **LuJH12/LuJH12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
