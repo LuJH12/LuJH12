@@ -4,6 +4,10 @@ My name is Junhui Lu, and I come from Guangdong, China. At present, I am a 2023 
 <!--
 Please visit my homepage for details.
 -->
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LuJH12)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lukjunhui@gmail.com)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LuJH12&theme=dark)](https://git.io/streak-stats)
+
 
 <!--
 **LuJH12/LuJH12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
