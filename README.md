@@ -11,9 +11,6 @@ Please visit my homepage for details.
 
 
 ![Luk's github stats](https://github-readme-stats.vercel.app/api?username=LuJH12)
-
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=LuJH12&theme=dark)](https://git.io/streak-stats)
 
 
