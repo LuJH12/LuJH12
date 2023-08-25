@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Junhui Lu, and I come from Guangdong, China. At present, I am a 2023 undergraduate graduate of Guangzhou Southern College. My major is Intelligent Science and Technology. I was advised by [Prof. Choujun Zhan](https://scholar.google.com/citations?user=CQjEUkAAAAAJ) in the [Research Institute of Big Data and Artificial Intelligence (RIBDAI)](https://www.labxing.com/gnfc-ai-lab)💻. My current research focuses on time series analysis, I work on applying artificial intelligence to industry and public health. I am currently working at [Haoyun Technology Co., Ltd](http://www.haoyuntech.com/). 
+My name is Junhui Lu, and I come from Guangdong, China. At present, I am a 2023 undergraduate graduate of Guangzhou Southern College. My major is Intelligent Science and Technology. I was advised by [Prof. Choujun Zhan](https://scholar.google.com/citations?user=CQjEUkAAAAAJ) in the [Research Institute of Big Data and Artificial Intelligence (RIBDAI)](https://www.labxing.com/gnfc-ai-lab)💻. My current research focuses on time series analysis, I am committed to applying artificial intelligence to IoT systems. I am currently working at [Haoyun Technology Co., Ltd](http://www.haoyuntech.com/). 
 <!--
 Please visit my homepage for details.
 -->
